@@ -1,4 +1,4 @@
-require_relative './spec_helper.rb'
+
 def fizz_buzz?(int)
   	  if int % 3 == 0
     "fizz"
