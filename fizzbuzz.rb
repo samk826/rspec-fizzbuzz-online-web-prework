@@ -1,5 +1,5 @@
 
-define "fizzbuzz".to i
+def "fizzbuzz".to i
   if i % 3 == i % 5 == 0
     "fizzbuzz"
   elsif
