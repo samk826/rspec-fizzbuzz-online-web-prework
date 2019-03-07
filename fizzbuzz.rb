@@ -1,5 +1,5 @@
 
-def "fizzbuzz" int
+def "fizzbuzz" .to int
   	  if int % 3 == int % 5== 0
     "FizzBuzz"
   elsif
