@@ -6,7 +6,7 @@ def fizz_buzz?(int)
     elsif int % 3 && 5 || 3 && 5
     "fizzbuzz"
     else int !% 3 || 5
-
+end
 
 
 
