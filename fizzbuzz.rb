@@ -10,7 +10,7 @@ require_relative './spec_helper.rb'
     i % 5 == 0
     "buzz"
 
-   end  
+   end
 
 
 
